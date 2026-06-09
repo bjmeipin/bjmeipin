@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0056b3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00a8e8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="30" cy="40" r="25" fill="url(#logoGradient)" opacity="0.1"/>
+  <circle cx="30" cy="40" r="20" fill="url(#logoGradient)"/>
+  <path d="M25 35 L35 40 L25 45 Z" fill="white"/>
+  <path d="M25 35 L35 40 L25 45 Z" fill="white" transform="translate(5,0)"/>
+  <text x="65" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#0056b3">BEIJING</text>
+  <text x="65" y="55" font-family="Arial, sans-serif" font-size="14" fill="#333">MEIPIN</text>
+  <text x="160" y="35" font-family="Arial, sans-serif" font-size="10" fill="#666">Human Resources</text>
+  <text x="160" y="50" font-family="Arial, sans-serif" font-size="8" fill="#999">Global Solutions</text>
+</svg>
